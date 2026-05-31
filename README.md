@@ -423,11 +423,11 @@ Task3_Heart_Disease/
 
 ## 👤 Author
 
-**Name**: [Your Name]  
+**Name**: [Visha Hameed]  
 **Position**: AI/ML Engineering Intern  
 **Company**: DevelopersHub Corporation  
 **Date**: June 2026  
-**Email**: [your.email@developershub.com]
+**Email**: [Vishahameed111@gmail.com]
 
 ---
 
